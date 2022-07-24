@@ -1,6 +1,6 @@
 # Who is JavaEdge？
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Wasabi1234&show_icons=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Java-Edge&show_icons=true)
 
 ## 公众号
 
