@@ -2,6 +2,13 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Java-Edge&show_icons=true)
 
+- 🚀 魔都架构师 | 全网30W+技术追随者
+- 🔧 大厂分布式系统/数据中台实战专家
+- 🏆 主导交易系统亿级流量调优 & 车联网平台架构
+- 🧠 AIGC应用开发先行者 | 区块链落地实践者
+- 🌍 以技术驱动创新，我们的征途是改变世界！
+- 👉 实战干货：[编程严选网](http://www.javaedge.cn/)
+
 ## 公众号
 
 更多精彩内容将发布在公众号 **JavaEdge**，提供大量求职面试资料，后台回复 "面试" 即可领取。
