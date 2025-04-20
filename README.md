@@ -26,12 +26,12 @@
 | [![](https://img.shields.io/badge/牛客网-JavaEdge-green)](https://www.nowcoder.com/users/5088755)  | 1733|
 
 ### 🌐 云生态圈
-| 渠道 | 粉丝数 |
-|------|--------|
-| [![](https://img.shields.io/badge/阿里云开发者社区-JavaEdge-orange)](https://developer.aliyun.com/profile/julu4p6dzrf6a)  | 1892|
-| [![](https://img.shields.io/badge/腾讯云开发者社区-JavaEdge-brightgreen)](https://cloud.tencent.com/developer/user/1752328)  | 971|
-| [![](https://img.shields.io/badge/华为云开发者社区-JavaEdge-red)](https://bbs.huaweicloud.com/community/usersnew/id_1620369486721790)  | 21|
-| [![](https://img.shields.io/badge/知识星球-JavaEdge-purple)](https://wx.zsxq.com/footprint/158828548542)  | 1411|
+| 渠道 | 粉丝数  |
+|------|------|
+| [![](https://img.shields.io/badge/阿里云开发者社区-JavaEdge-orange)](https://developer.aliyun.com/profile/julu4p6dzrf6a)  | 1949 |
+| [![](https://img.shields.io/badge/腾讯云开发者社区-JavaEdge-brightgreen)](https://cloud.tencent.com/developer/user/1752328)  | 979  |
+| [![](https://img.shields.io/badge/华为云开发者社区-JavaEdge-red)](https://bbs.huaweicloud.com/community/usersnew/id_1620369486721790)  | 22   |
+| [![](https://img.shields.io/badge/知识星球-JavaEdge-purple)](https://wx.zsxq.com/footprint/158828548542)  | 1432 |
 
 ### 📱 社交媒体
 | 渠道 | 粉丝数 |
