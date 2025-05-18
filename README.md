@@ -29,7 +29,7 @@
 | 渠道 | 粉丝数  |
 |------|------|
 | [![](https://img.shields.io/badge/阿里云开发者社区-JavaEdge-orange)](https://developer.aliyun.com/profile/julu4p6dzrf6a)  | 1949 |
-| [![](https://img.shields.io/badge/腾讯云开发者社区-JavaEdge-brightgreen)](https://cloud.tencent.com/developer/user/1752328)  | 979  |
+| [![](https://img.shields.io/badge/腾讯云开发者社区-JavaEdge-brightgreen)](https://cloud.tencent.com/developer/user/1752328)  | 986  |
 | [![](https://img.shields.io/badge/华为云开发者社区-JavaEdge-red)](https://bbs.huaweicloud.com/community/usersnew/id_1620369486721790)  | 22   |
 | [![](https://img.shields.io/badge/知识星球-JavaEdge-purple)](https://wx.zsxq.com/footprint/158828548542)  | 1432 |
 
@@ -48,7 +48,7 @@
 | [![](https://img.shields.io/badge/百家号-JavaEdge-blue)](https://author.baidu.com/home?from=bjh_article&app_id=1665499544676976)  | 163|
 | [![](https://img.shields.io/badge/网易号-JavaEdge-red)](https://www.163.com/dy/media/T1634659025906.html)  | 453|
 
-### 🏆 总粉丝量: 204,045+
+### 🏆 总粉丝量: 20w+
 
 更多精彩内容将发布在公众号 **JavaEdge**，提供大量求职面试资料，后台回复 "面试" 即可领取。
 本号系统整理了Java工程师从初级到资深各阶段的必备技能点，帮你理清纷杂面试知识点，有的放矢。
